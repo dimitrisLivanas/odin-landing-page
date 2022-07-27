@@ -1,3 +1,10 @@
+/* Remove default margin and padding and add a "font: inherit" */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
 body {
   font-family: "Courier New", Courier, monospace;
 }
