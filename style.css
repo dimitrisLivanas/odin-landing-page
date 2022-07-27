@@ -1,49 +1,49 @@
 body {
-    font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 /* Add general background colors and font styles */
 
 .header,
 .hero,
-.footer{
-    background-color: #1f2937;
+.footer {
+  background-color: #1f2937;
 }
 
 /* Hero Main text ("this website is awesome") */
-h1{
-    font-size: 48px;
-    color: #f9faf8;
+h1 {
+  font-size: 48px;
+  color: #f9faf8;
 }
 
 /* Hero Secondary text, Header link Text */
 .hero p,
 .hero img,
 a {
-    font-size: 18px;
-    color: #e5e7eb;
+  font-size: 18px;
+  color: #e5e7eb;
 }
 
 /* Header Logo Text */
 h3 {
-    font-size: 24px;
-    color: #f9faf8;
+  font-size: 24px;
+  color: #f9faf8;
 }
 
 /* Button color, call to action background color */
 .signup,
 button {
-    background-color: #3882f6;
+  background-color: #3882f6;
 }
 
 /* Quote section background color and text */
 .quote {
-    background-color: #e5e7eb;
+  background-color: #e5e7eb;
 }
 
 .quote h2 {
-    font-size: 36px;
-    font-weight: lighter;
-    font-style: italic;
-    color: #1f2937;
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1f2937;
 }
