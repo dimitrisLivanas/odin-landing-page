@@ -54,3 +54,8 @@ button {
   font-style: italic;
   color: #1f2937;
 }
+
+/* Footer text color */
+.footer {
+    color: #e5e7eb;
+}
