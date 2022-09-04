@@ -29,6 +29,10 @@ button {
   border: 1px solid #f9faf8;
 }
 
+.header button {
+  margin-top: 10px;
+}
+
 /* Navbar */
 ul {
   list-style-type: none;
@@ -78,6 +82,7 @@ ul {
 
 .header p {
   font-size: 18px;
+  line-height: 1.2;
 }
 
 .header img {
@@ -90,3 +95,6 @@ ul {
   justify-content: space-between;
 }
 
+.header .hero {
+  padding-right: 20px;
+}
