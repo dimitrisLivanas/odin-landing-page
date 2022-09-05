@@ -39,7 +39,7 @@ ul {
 }
 
 .container {
-  max-width: 1100px;
+  max-width: 1500px;
   margin: 0 auto;
   padding: 0 30px;
 }
@@ -93,8 +93,43 @@ ul {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin-top: 100px;
+  margin-bottom: 100px;
 }
 
 .header .hero {
   padding-right: 20px;
+}
+
+/* Boxes */
+.boxes {
+  background-color: white;
+  color: #1f2937;
+}
+
+.boxes img {
+  width: 135px;
+  height: 135px;
+  padding: 10px;
+  border: 3px solid #3882f6;
+  border-radius: 10px;
+}
+
+.boxes h2 {
+  text-align: center;
+  font-size: 36px;
+  font-weight: bolder;
+  margin: 30px 0 50px 0;
+}
+
+.boxes .container {
+  margin-bottom: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
+
+.img-subtxt {
+  max-width: 135px;
+  text-align: center;
 }
