@@ -158,3 +158,15 @@ ul {
   display: flex;
   flex-direction: column;
 }
+
+/* Call to action */
+
+.signup {
+  background-color: #f9faf8;
+}
+
+.signup .container {
+  min-width: 1000px;
+  background-color: #3882f6;
+  color: #f9faf8;
+}
